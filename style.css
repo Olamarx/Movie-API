@@ -10,6 +10,11 @@ figure.image {
   background-color: black;
 }
 
+.dropdown-item img {
+  height: 50px;
+  margin-right: 10px;
+}
+
 figure .image img {
   width: 128px;
 }
@@ -40,9 +45,4 @@ figure .image img {
   display: flex;
   align-items: center;
   height: 60px;
-}
-
-.dropdown-item img {
-  height: 50px;
-  margin-right: 10px;
 }

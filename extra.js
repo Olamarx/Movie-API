@@ -1,11 +1,13 @@
-const debounce = (func, delay= 1000) => {
-    let timeoutId;
-    return (...arg) => {
-        if (timeoutId) {
-            clearTimeout(timeoutId);
-        }
-        timeoutId = setTimeout(() => {
-            func.apply(null, arg);
-        }, delay);
-    };
+/* eslint-disable prefer-spread */
+/* eslint-disable no-unused-vars */
+const debounce = (func, delay = 1000) => {
+  let timeoutId;
+  return (...arg) => {
+    if (timeoutId) {
+      clearTimeout(timeoutId);
+    }
+    timeoutId = setTimeout(() => {
+      func.apply(null, arg);
+    }, delay);
+  };
 };
