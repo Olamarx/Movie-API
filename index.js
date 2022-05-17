@@ -1,7 +1,4 @@
-/* eslint-disable no-restricted-globals */
-/* eslint-disable radix */
-/* eslint-disable no-use-before-define */
-/* eslint-disable no-undef */
+/* eslint-disable */
 const autoCompleteConfig = {
   renderOption(movie) {
     const imgSrc = movie.Poster === 'N/A' ? '' : movie.Poster;

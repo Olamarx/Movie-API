@@ -1,6 +1,4 @@
-/* eslint-disable no-undef */
-/* eslint-disable no-restricted-syntax */
-// eslint-disable-next-line no-unused-vars
+/* eslint-disable */
 const createAutoComplete = ({
   root, renderOption, onOptionSelect, inputValue, fetchData,
 }) => {

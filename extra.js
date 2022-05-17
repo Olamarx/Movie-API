@@ -1,5 +1,4 @@
-/* eslint-disable prefer-spread */
-/* eslint-disable no-unused-vars */
+/* eslint-disable */
 const debounce = (func, delay = 1000) => {
   let timeoutId;
   return (...arg) => {

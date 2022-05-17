@@ -8,14 +8,6 @@
   >
 </p>
 
-<!-- ## Mobile Version of the site
-
-<p align="center">
-  <img 
-  src="/images/mobile-version.jpg"
-  alt="Mobile Version"
-  >
-</p> -->
 
 # Udemy's Javascript Second Project
 > This my first project working with API and definitely, I am learning more and building more.
