@@ -1,72 +1,62 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## Application View
+<p align="center">
+  <img
+  src="./image/wide.jpg"
+  alt="Desktop Version"
+  >
+</p>
 
-> Description the project.
 
+# Udemy's Javascript Second Project
+> This my first project working with API and definitely, I am learning more and building more.
+> This Project is about comparing two movies together and it will draw the differences and give you the better one in terms of awards, sales and ranking.
 
-## Built With
+## Built by Olaoluwa Owoeye (Olamarx)
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+ - API
+  -Axios Library
+## Live Demo
 
-## Live Demo (if available)
+[Live Demo Link](https://olamarx.github.io/Movie-API/)
 
-[Live Demo Link](https://livedemo.com)
-
+## Set-up linters in your local machine
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+#### run "git clone https://github.com/Olamarx/Movie-API.git"
 
+#### Kindly don't run the quotation mark with it.
 
-To get a local copy up and running follow these simple example steps.
+## Author
 
-### Prerequisites
+👤 **Owoeye Olaoluwa (Olamarx)**
 
-### Setup
+- GitHub: [@githubhandle](https://github.com/Olamarx)
+- Twitter: [@twitterhandle](https://twitter.com/Owoeye0laoluwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
+- Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Olamarx/Movie-API/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original design idea by Stephen Grider on Udemy, he happens to be the project teacher too.
+
 
 ## 📝 License
 
